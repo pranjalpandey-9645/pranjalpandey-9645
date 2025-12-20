@@ -53,15 +53,47 @@ I build meaningful backend systems using Python and Django while sharpening my f
 ## 📌 Featured Repositories
 
 - 🔗 **DSA-in-C** — Learning & implementing core DSA concepts  
-- 🔗 **Python-Projects** — Mini tools & utilities in Python  
+- 🔗 **Python-Projects** — Mini tools & utilities in Python
+- 🔗 **Web-Design-Lab** — HTML, CSS & JavaScript practice   
 - 🔗 **Django-Blog** *(Coming Soon)* — A simple scalable blog app  
 
 ---
 
 ## 🌍 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranjal-pandey-255648321)  
-- 📧 Email: ppranjal573@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranjal-pandey-255648321/recent-activity/all/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pranjal573@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
+## 💡Quote
+<div align="center">
+<table width="100%">
+  <tr>
+    <td align="center"
+        style="
+          background: linear-gradient(135deg, #0b2e1a, #0f5132);
+          padding: 22px;
+          border-radius: 12px;
+          border-left: 5px solid #2ea043;
+          box-shadow: 0 0 18px rgba(46,160,67,0.35);
+        ">
+      <span style="
+        color: #c9f2d8;
+        font-size: 17px;
+        font-weight: 700;
+        letter-spacing: 0.6px;
+      ">
+        “Consistency beats talent when talent doesn’t show up.”
+      </span>
+    </td>
+  </tr>
+</table>
+</div>
 
-⭐️ *"Consistency beats talent when talent doesn’t show up."*  
+
+</div>
