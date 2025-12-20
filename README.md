@@ -1,9 +1,10 @@
-# 👋 Hey, I’m Pranjal Pandey
+<h1 align="center">👋 Hey, I’m Pranjal Pandey </h1>
 
-🚀 **Aspiring Backend Developer | AI Enthusiast | DSA Learner**  
+<h3 align="center">🚀 Aspiring Backend Developer | AI Enthusiast | DSA Learner </h3>  
 
-I’m passionate about building meaningful tools with Python, Django, and AI.  
-Currently sharpening my problem-solving with **DSA in C** and learning how to create scalable apps with **Django**.  
+<p align="center"> 
+I build meaningful backend systems using Python and Django while sharpening my fundamentals in Data Structures, Algorithms, and AI.
+</p>
 
 ---
 
@@ -16,17 +17,40 @@ Currently sharpening my problem-solving with **DSA in C** and learning how to cr
 ---
 
 ## 🧑‍💻 Tech Stack
-- **Languages:** C, Python  
-- **Frameworks:** Django, FastAPI (learning)  
-- **Tools:** Git, GitHub, VS Code  
-- **Interests:** AI, Backend Development, Automation  
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+### Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Featured Repositories
-- [DSA-in-C](https://github.com/pranjalpandey-daemon/DSA-in-C) – Learning & implementing DSA  
-- [Python-Projects](#) – Mini tools & utilities in Python  
-- [Django-Blog](#) – (Coming soon) A simple blog app with Django  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalpandey-9645&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&layout=compact&theme=tokyonight" />
+</p>
+
+---
+## 📌 Featured Repositories
+
+- 🔗 **DSA-in-C** — Learning & implementing core DSA concepts  
+- 🔗 **Python-Projects** — Mini tools & utilities in Python  
+- 🔗 **Django-Blog** *(Coming Soon)* — A simple scalable blog app  
 
 ---
 
