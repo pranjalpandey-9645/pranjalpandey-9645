@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I’m Pranjal Pandey </h1>
 
-<h3 align="center">🚀 Aspiring Backend Developer | AI Enthusiast | DSA Learner </h3>  
+<h3 align="center">🚀 Aspiring full-stack Web Developer | AI Enthusiast | DSA Learner </h3>  
 
 <p align="center"> 
 I build meaningful backend systems using Python and Django while sharpening my fundamentals in Data Structures, Algorithms, and AI.
@@ -50,7 +50,7 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 - 🔗 **DSA-in-C** — Learning & implementing core DSA concepts  
 - 🔗 **Python-Projects** — Mini tools & utilities in Python
-- 🔗 **Web-Design-Lab** — HTML, CSS & JavaScript practice   
+- 🔗 **Full-stack-web-development** — HTML, CSS & JavaScript practice   
 - 🔗 **Django-Blog** *(Coming Soon)* — A simple scalable blog app  
 
 ---
