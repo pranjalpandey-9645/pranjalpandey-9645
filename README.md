@@ -39,7 +39,9 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ![](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false) <br/>
 
-![](https://nirzak-streak-stats.vercel.app/?username=pranjalpandey-9645&theme=transparent&hide_border=false) <br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalpandey-9645&theme=tokyonight" />
+</p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
