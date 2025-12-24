@@ -102,5 +102,3 @@ I build meaningful backend systems using Python and Django while sharpening my f
   </tr>
 </table>
 </div>
-
-</div>
