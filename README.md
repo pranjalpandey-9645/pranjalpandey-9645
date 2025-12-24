@@ -79,16 +79,16 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ## 💡Quote
 
-<div align="center">
-<table width="100%">
+<div align="left">
+<table width="100%" height="70%">
   <tr>
-    <td align="center"
+    <td align="centre"
         style="
-          background: linear-gradient(135deg, #3e9cc1ff, #4bc78dff);
+          background: linear-gradient(135deg, #3e9cc1ff, #68dea7ff);
           padding: 22px;
           border-radius: 12px;
-          border-left: 5px solid #2ea043;
-          box-shadow: 0 0 18px rgba(82, 234, 110, 0.84);
+          border-left: 5px solid #4ec364ff;
+          box-shadow: 0 0 18px rgba(79, 233, 241, 0.84);
         ">
       <span style="
         color: #e0f1e6ff;
