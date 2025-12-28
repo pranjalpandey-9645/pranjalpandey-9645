@@ -46,11 +46,11 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ## 📊 GitHub Stats
 
-![Github Streak](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)</br>
+![](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)</br>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pranjalpandey-9645&theme=tokyonight)</br>
+![](https://streak-stats.demolab.com/?user=pranjalpandey-9645&theme=tokyonight)</br>
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
