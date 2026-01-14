@@ -34,7 +34,6 @@ I build meaningful backend systems using Python and Django while sharpening my f
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 ### Frameworks & Tools
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -76,7 +75,7 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ---
 
-## 💡Quote
+## 💡Quotes
 
 <div align="left">
 <table width="100%" height="70%">
@@ -101,3 +100,5 @@ I build meaningful backend systems using Python and Django while sharpening my f
   </tr>
 </table>
 </div>
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&borderColor=00ffff)
