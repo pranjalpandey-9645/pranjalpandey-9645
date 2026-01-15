@@ -6,11 +6,10 @@
 
 <h1 align="center">👋 Hey there, I’m Pranjal Pandey </h1>
 
-<h3 align="center">🚀 Aspiring full-stack Web Developer | AI Enthusiast | DSA Learner </h3>
+<h3 align="center">🚀 Aspiring full-stack Web Developer | AI Enthusiast | DSA Learner</h3>
 
 <p align="center">
-I build meaningful backend systems using Python and Django while sharpening my fundamentals in Data Structures, Algorithms, and AI.
-</p>
+I build meaningful backend systems using Python and Django while sharpening my fundamentals in Data Structures, Algorithms, and AI.</p>
 </div>
 
 ---
@@ -45,11 +44,11 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)</br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)</br>
 
-![](https://streak-stats.demolab.com/?user=pranjalpandey-9645&theme=tokyonight)</br>
+![GitHub Stats](https://streak-stats.demolab.com/?user=pranjalpandey-9645&theme=tokyonight)</br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -79,25 +78,14 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 <div align="left">
 <table width="100%" height="70%">
-  <tr>
-    <td align="centre"
-        style="
-          background: linear-gradient(135deg, #3e9cc1ff, #68dea7ff);
-          padding: 22px;
-          border-radius: 12px;
-          border-left: 5px solid #4ec364ff;
-          box-shadow: 0 0 18px rgba(79, 233, 241, 0.84);
-        ">
-      <span style="
-        color: #e0f1e6ff;
-        font-size: 17px;
-        font-weight: 700;
-        letter-spacing: 0.6px;
-      ">
-        “Consistency beats talent when talent doesn’t show up.”
-      </span>
-    </td>
-  </tr>
+<tr>
+<td align="center" style=" background: linear-gradient(135deg, #3e9cc1ff, #68dea7ff); padding: 22px; border-radius: 12px; border-left: 5px solid #4ec364ff; box-shadow: 0 0 18px rgba(79, 233, 241, 0.84); ">
+
+<span style=" color: #e0f1e6ff; font-size: 17px; font-weight: 700; letter-spacing: 0.6px; ">
+“Consistency beats talent when talent doesn’t show up.”
+</span>
+</td>
+</tr>
 </table>
 </div>
 
