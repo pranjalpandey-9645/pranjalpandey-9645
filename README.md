@@ -44,11 +44,15 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)</br>
+![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&show_icons=true&theme=radical)</br>
 
-![GitHub Stats](https://streak-stats.demolab.com/?user=pranjalpandey-9645&theme=tokyonight)</br>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjalpandey-9645&theme=radical)</br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&layout=compact&theme=radical)</br>
+
+![Pranjal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalpandey-9645&theme=react-dark)</br>
+
+![Profile views](https://komarev.com/ghpvc/?username=pranjalpandey-9645&color=blue)</br>
 
 ---
 
@@ -63,14 +67,7 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ## 🌍 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranjal-pandey-255648321/recent-activity/all/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pranjal573@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
