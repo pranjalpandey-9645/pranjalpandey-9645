@@ -46,7 +46,7 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&show_icons=true&theme=radical)</br>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjalpandey-9645&theme=react-dark)</br>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjalpandey-9645&theme=radical)</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&layout=compact&theme=radical)</br>
 
