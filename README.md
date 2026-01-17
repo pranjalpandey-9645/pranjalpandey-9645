@@ -44,13 +44,13 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ## 📊 GitHub Stats
 
-![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&show_icons=true&theme=radical)</br>
+![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&show_icons=true&theme=highcontrast)</br>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjalpandey-9645&theme=radical)</br>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjalpandey-9645&theme=highcontrast)</br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&layout=compact&theme=radical)</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&layout=compact&theme=dracula)</br>
 
-![Pranjal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalpandey-9645&theme=react-dark)</br>
+![Pranjal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalpandey-9645&theme=highcontrast)</br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=pranjalpandey-9645&color=green)</br>
 
