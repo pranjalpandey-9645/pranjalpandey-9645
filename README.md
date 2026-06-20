@@ -6,7 +6,7 @@
 
 <h1 align="center">👋 Hey there, I’m Pranjal Pandey </h1>
 
-<h3 align="center">🚀 Aspiring full-stack Web Developer | AI Enthusiast | DSA Learner</h3>
+<h3 align="center">🚀 full-stack Web Developer | AI Enthusiast </h3>
 
 <p align="center">
 I build meaningful backend systems using Python and Django while sharpening my fundamentals in Data Structures, Algorithms, and AI.</p>
@@ -16,7 +16,7 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ## 🔥 What I’m Doing Right Now
 
-- Learning **Data Structures & Algorithms in C**
+- Learning **Data Structures & Algorithms in C++**
 - Building backend projects using **Django + Python**
 - Exploring **AI tools and automation**
 - Documenting my learning journey on GitHub
@@ -42,12 +42,11 @@ I build meaningful backend systems using Python and Django while sharpening my f
 
 ---
 
-## 📌 Featured Repositories
+# 📊 GitHub Stats:
 
-- 🔗 **DSA-in-C** — Learning & implementing core DSA concepts
-- 🔗 **Python-Projects** — Mini tools & utilities in Python
-- 🔗 **Full-stack-web-development** — HTML, CSS & JavaScript practice
-- 🔗 **Django-Blog** *(Coming Soon)* — A simple scalable blog app
+![](https://github-readme-stats.vercel.app/api?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pranjalpandey-9645&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpandey-9645&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
